@@ -62,3 +62,7 @@ Table: `wp_donations_item`
 - Session validation for guest users
 - Amount validation before payment processing
 - Automatic cleanup of records after successful payment
+
+## CSS Modification
+
+- Modify the CSS to your liking and needs.
