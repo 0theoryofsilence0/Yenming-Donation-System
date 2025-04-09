@@ -62,9 +62,3 @@ Table: `wp_donations_item`
 - Session validation for guest users
 - Amount validation before payment processing
 - Automatic cleanup of records after successful payment
-
-## 👨‍💻 Author
-Developed by [Paperdino Dev (Julius Enriquez)](https://paperdino.com.au/) for [Yen Ming Temple](https://yenmingtemple.org.au/)
-
-## ⚖️ License
-Proprietary software developed for Yen Ming Temple. All rights reserved.
