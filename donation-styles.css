@@ -1,0 +1,17 @@
+/** Checkout Form Action Buttons **/
+
+td.checkout-actions {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px !important;
+}
+
+td.checkout-actions button::after, 
+td.checkout-actions button:before, 
+td.checkout-actions button {
+    background: none !important;
+    color: #ff6600 !important;
+    padding: 5px;
+    font-size: 12px !important;
+}
