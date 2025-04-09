@@ -29,8 +29,10 @@ A custom WordPress plugin that extends Formidable Forms' payment functionality t
 ## 💻 Usage
 
 1. Add donation forms throughout the site (pre-configured form IDs: 13, 6, 11, 8, 2, 18, 10, 14, 5, 21, 24, 29, 31, 32, 34, 35)
+   - You can set your own array of form id
 2. Use the `[display_donations_checkout]` shortcode to display donation cart
 3. Users can proceed to checkout which validates the total amount before payment
+4. The plugin works for both logged-in and non-loggedin users by utilizing the userId and sessionId to retreived the records associated with them.
 
 ## 🔧 Technical Details
 
